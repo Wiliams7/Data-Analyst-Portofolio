@@ -1,2 +1,14 @@
-# Data-Analyst-Portofolio
-My Data Analyst Portfolio – Excel, SQL, Python, and Tableau Projects.
+# Data Analyst Portfolio
+
+Welcome to my Data Analyst Portfolio!
+
+This repository showcases my projects, skills, and learning journey in data analytics using various tools and technologies.
+
+## Skills & Tools
+- Microsoft Excel
+- SQL
+- Python
+- Tableau
+
+## Projects
+- Retail Sales Analysis (In Progress)
