@@ -11,4 +11,4 @@ This repository showcases my projects, skills, and learning journey in data anal
 - Tableau
 
 ## Projects
-- Retail Sales Analysis (In Progress)
+- Retail Sales Analysis 
